@@ -1,5 +1,5 @@
 {
-  "name": "Project Bolan",
+  "name": "ProjectBolan",
   "version": "0.0.1",
   "description": "Desktop client for amazing game made by Google",
   "main": "main.js",
@@ -28,7 +28,7 @@
   "build": {
     "asar": false,
     "appId": "com.forbirdden.bolan",
-    "productName": "Project Bolan",
+    "productName": "ProjectBolan",
     "copyright": "Copyright © 2025 Forbirdden",
     "publish": {
       "provider": "github",
